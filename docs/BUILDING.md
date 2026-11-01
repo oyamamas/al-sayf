@@ -105,7 +105,7 @@ alsayf weaponize nuclei --source-dir /path/to/alsayf \
   --go /path/to/go --cache-dir /path/to/alsayf-build-cache --offline
 ```
 
-The default source repository is `oyamamas/alsayf`. `--repository owner/name`
+The default source repository is `oyamamas/al-sayf`. `--repository owner/name`
 selects a fork. Private repositories require `GITHUB_TOKEN` with read access to
 the source repository; anonymous archive requests can return HTTP 404 even for
 an existing commit. Git/SSH credentials used for `git push` do not authenticate

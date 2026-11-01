@@ -75,7 +75,7 @@ func ParseModules(value string) ([]string, error) {
 }
 
 // Set by the builder for source archives, which have no Git checkout metadata.
-var SourceRepository = "oyamamas/alsayf"
+var SourceRepository = "oyamamas/al-sayf"
 var SourceRevision string
 var SourceModified string
 
